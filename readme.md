@@ -1,6 +1,6 @@
 # ESP32 Jet ECU Wiki Documentation
 
-This is an older version of the project. A newer version is available in my repositories under the name **JetEcu**.
+This is an old version of the project. A newer version is available in my repositories under the name **JetEcu**.
 
 https://github.com/elia179/JetEcu
 
